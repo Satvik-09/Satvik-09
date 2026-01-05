@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+There+👋;I'm+Satvik-09;AI+Specialized+Software+Engineer;Welcome+to+My+GitHub+Profile!" />
+</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0e75b6&height=90&section=header"/>
 
 <h1 align="center">Hi 👋, I'm Satvik-09</h1>
 <h3 align="center">A passionate Software engineer [ AI specialised] from DSCE,Banglore</h3>
