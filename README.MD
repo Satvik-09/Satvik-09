@@ -82,15 +82,11 @@ Always open to collaborating on backend and cloud based projects.
 </p>
 
 ---
-
 ## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=2F81F7&style=flat" alt="Profile Views" />
-</p>
+ 
+ 
+ 
