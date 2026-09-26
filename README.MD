@@ -1,7 +1,7 @@
  <h1 align="center">Hi, I'm Satvik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+AWS;Data+Structures+%26+Algorithms;Building+scalable+systems,+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Java+%7C+Spring+Boot+%7C+AWS;Data+Structures+%26+Algorithms;Building+systems,+one+commit+at+a+time." alt="Typing SVG" />
 </p>
 
 <p align="center">
