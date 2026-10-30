@@ -72,26 +72,33 @@ Always open to collaborating on backend and cloud based projects.
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Satvik-09&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub Stats"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-09&hide_border=true"
-    alt="GitHub Streak"
-    width="49%"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-09&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-    width="50%"
-  />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Satvik-09&show_icons=true&theme=default&hide_border=true"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td width="50%" align="center">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Satvik-09&hide_border=true"
+        width="100%"
+        alt="GitHub Streak"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satvik-09&layout=compact&hide_border=true&langs_count=8"
+        width="55%"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 ## Contribution Snake
